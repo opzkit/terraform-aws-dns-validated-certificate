@@ -5,6 +5,9 @@ resource "aws_acm_certificate" "cert" {
   lifecycle {
     create_before_destroy = true
   }
+  tags = {
+    Name = "${var.zone.name} wildcard certificate"
+  }
 }
 
 resource "aws_route53_record" "validation" {

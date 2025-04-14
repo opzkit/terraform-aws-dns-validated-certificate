@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/opzkit/terraform-aws-dns-validated-certificate/compare/v0.1.0...v0.1.1) (2025-04-14)
+
+
+### Miscellaneous Chores
+
+* **deps:** update pre-commit hook antonbabenko/pre-commit-terraform to v1.99.0 ([#20](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/20)) ([4c43464](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/4c434641e36a0fb5db05455340f23c1b018637fb))
+
 ## [0.1.0](https://github.com/opzkit/terraform-aws-dns-validated-certificate/compare/v0.0.5...v0.1.0) (2025-04-10)
 
 

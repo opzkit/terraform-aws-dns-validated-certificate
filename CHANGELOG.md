@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.1](https://github.com/opzkit/terraform-aws-dns-validated-certificate/compare/v0.1.0...v0.1.1) (2025-07-08)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/setup-python action to v5.6.0 ([#22](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/22)) ([f2457d5](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/f2457d58ed123c16904feeaeeaec86f7fe026cc1))
+* **deps:** update pre-commit hook antonbabenko/pre-commit-terraform to v1.99.0 ([#20](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/20)) ([4c43464](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/4c434641e36a0fb5db05455340f23c1b018637fb))
+* **deps:** update pre-commit hook antonbabenko/pre-commit-terraform to v1.99.1 ([#25](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/25)) ([b1e3bd2](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/b1e3bd24bb77af9e85b13bb55c5ce96ff7a41643))
+* **deps:** update pre-commit hook antonbabenko/pre-commit-terraform to v1.99.3 ([#26](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/26)) ([f2b1866](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/f2b18669ea406f50a68d710afbce25533c39c127))
+* **deps:** update pre-commit hook antonbabenko/pre-commit-terraform to v1.99.4 ([#27](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/27)) ([33b2774](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/33b2774efbed39d9a59a65e864daa42655aed05a))
+* **deps:** update pre-commit hook antonbabenko/pre-commit-terraform to v1.99.5 ([#28](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/28)) ([1cfebe8](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/1cfebe89c41ffff8baa7f5e5bc47d43d324ca6bc))
+* remove unnecessary work flow for release please ([#23](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/23)) ([13f2332](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/13f2332260c62085989df0e937ad1709955ee9e6))
+
 ## [0.1.0](https://github.com/opzkit/terraform-aws-dns-validated-certificate/compare/v0.0.5...v0.1.0) (2025-04-10)
 
 

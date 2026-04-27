@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.1.2](https://github.com/opzkit/terraform-aws-dns-validated-certificate/compare/v0.1.1...v0.1.2) (2026-04-27)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/create-github-app-token action to v3 ([#110](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/110)) ([1431334](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/1431334a2662f3c154c8ac76aa9cea89d5473cfc))
+* **deps:** update actions/create-github-app-token digest to 1b10c78 ([#116](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/116)) ([ef4dba7](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/ef4dba79ec7148caa8ab239a63d41abce525ef7e))
+* **deps:** update actions/create-github-app-token digest to 7bd0371 ([#115](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/115)) ([9acbb38](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/9acbb38b3fbf4981f0b4b7e62e8bf4cf4efb39e0))
+* **deps:** update actions/create-github-app-token digest to fee1f7d ([#108](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/108)) ([305e16c](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/305e16c36a786295a702a61570c55d49a1528dd6))
+* **deps:** update googleapis/release-please-action action to v5 ([#119](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/119)) ([c2a4b9b](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/c2a4b9bfca239c16d401f563981c3aa284aef9a9))
+* **deps:** update googleapis/release-please-action digest to 5c625bf ([#118](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/118)) ([89bd6e2](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/89bd6e29b4ec4a5406ab8a42ed4a3772a006b6fa))
+* **deps:** update hashicorp/setup-terraform action to v4 ([#105](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/105)) ([2e9277a](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/2e9277a89a1af9194b80e75db385bac51fbb5f1d))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.104.4 ([#114](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/114)) ([87f195c](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/87f195c6102c21a462b9f2a58cb3a0846947cdbb))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.111.0 ([#117](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/117)) ([0726e09](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/0726e09ad83daf455cb04f6ef36dd00a422da9d8))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.31.1 ([#103](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/103)) ([ab84e03](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/ab84e03993d0542c69f14ed688be9cd40dfe4933))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.46.6 ([#106](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/106)) ([fb43f46](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/fb43f460624809c7e2291d668d2fffce5ce4ec06))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.59.4 ([#107](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/107)) ([2258bff](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/2258bff35b160842a0cb70df7e41fb96a90702d6))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.76.2 ([#111](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/111)) ([86b10ea](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/86b10ea260d6ee234949b2987fa347167464557e))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.86.0 ([#112](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/112)) ([1751880](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/1751880d9dcc41a88111eb54b6245b70d6bf45e3))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.99.1 ([#113](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/113)) ([5807a1e](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/5807a1ea98f7fbd01a27efa0532fcae1b2740ba8))
+* **deps:** update terraform-linters/setup-tflint action to v6.2.2 ([#109](https://github.com/opzkit/terraform-aws-dns-validated-certificate/issues/109)) ([0f9fa79](https://github.com/opzkit/terraform-aws-dns-validated-certificate/commit/0f9fa7950aa3d854568c555b2f082dac62d5541a))
+
 ## [0.1.1](https://github.com/opzkit/terraform-aws-dns-validated-certificate/compare/v0.1.0...v0.1.1) (2026-02-17)
 
 
